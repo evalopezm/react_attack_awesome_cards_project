@@ -1,4 +1,4 @@
-# Third team project for [Adalab] (https://adalab.es/)
+# Third team project for [Adalab](https://adalab.es/)
 
 Refactoring an inherited project using React. 
 
